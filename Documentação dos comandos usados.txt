@@ -1,0 +1,20 @@
+Primeiramente, abri o site do GitHub e clonei o repositório. 
+Após isso, adicionei os arquivos na pasta em meu computador, fiz
+os commits sobre as modificações e usei os comandos abaixo para
+ enviá-los ao repositório remoto.
+
+Comandos utilizados:
+git clone https://github.com/scarlinhosss/LeiloesTDSat.git
+
+cd LeiloesTDSat
+(após mudar o diretório, adicionei os arquivos do projeto)
+
+git commit -m "Definição de tela principal"
+
+git commit -m "Adição da funcionalidade "salvar"."
+
+git commit -m "Adição da mensagem de cadastro realizado"
+
+git commit -m "Adição da funcionalidade "lista""
+
+git push
